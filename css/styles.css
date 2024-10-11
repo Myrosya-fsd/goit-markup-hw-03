@@ -170,9 +170,12 @@ body {
    .feature-list{
     display: flex;
     gap: 24px;
-    width: calc((100% - 76px) / 4)
    }
-   
+
+   .feature-list-item{
+    flex-basis: calc((100% - 3 * 24px) / 4)
+   }
+
    .feature-list-item-title {
        font-weight: 500;
        font-size: 20px;
