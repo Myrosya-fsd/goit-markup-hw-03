@@ -259,6 +259,8 @@ body {
        letter-spacing: 0.02em;
        color: #2e2f42;
        margin-bottom: 8px;
+       border-left: 1px solid #e7e9fc;
+       border-right: 1px solid #e7e9fc;
    }
    
    .portfolio-text{
@@ -267,6 +269,9 @@ body {
        letter-spacing: 0.02em;
        color: #434455;
        padding-bottom: 32px;
+       border-left: 1px solid #e7e9fc;
+       border-right: 1px solid #e7e9fc;
+       border-bottom: 1px solid #e7e9fc;
    }
    
    /*------footer-----*/
@@ -292,4 +297,3 @@ body {
        letter-spacing: 0.02em;
        color: #f4f4fd;
    }
-   
